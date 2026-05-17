@@ -1,0 +1,53 @@
+{
+  "dataVersion": 1,
+  "images": [
+
+  {
+    "category": "Animals",
+    "total": 35
+  },
+  {
+    "category": "Anatomy",
+    "total": 13
+  },
+  {
+    "category": "Nature",
+    "total": 28
+  },
+  {
+    "category": "Birds",
+    "total": 24
+  },
+  {
+    "category": "Food",
+    "total": 13
+  },
+  {
+    "category": "Vehicle",
+    "total": 29
+  },
+  {
+    "category": "For Kids",
+    "total": 32
+  },
+  
+  {
+    "category": "Festival",
+    "total": 31
+  },  
+  {
+    "category": "Architecture",
+    "total": 21
+  },  
+
+  {
+    "category": "People",
+    "total": 22
+  },  
+{
+    "category": "Mandala",
+    "total": 10
+  }
+
+  ]
+}
