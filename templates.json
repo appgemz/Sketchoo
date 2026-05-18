@@ -1,0 +1,36 @@
+{
+  "dataVersion": 1,
+  "templates": [
+
+    {
+      "category": "Sketches",
+      "label": "Anime",
+      "premium": true
+    },
+    {
+      "category": "Sketches",
+      "label": "Line Art",
+      "premium": true
+    },
+    {
+      "category": "Sketches",
+      "label": "Line Art 1",
+      "premium": true
+    },
+    {
+      "category": "Sketches",
+      "label": "Pencil",
+      "premium": true
+    },
+    {
+      "category": "Sketches",
+      "label": "Pencil1",
+      "premium": true
+    },
+    {
+      "category": "Sketches",
+      "label": "Realistic",
+      "premium": true
+    }
+  ]
+}
