@@ -3,34 +3,118 @@
   "templates": [
 
     {
-      "category": "Sketches",
-      "label": "Anime",
+      "label": "Digital illustration",
+      "hash": "UKHyXAtP9rE000j?xct8_NWCVyn,RTtPMxRj",
       "premium": true
     },
+    
     {
-      "category": "Sketches",
-      "label": "Line Art",
+      "label": "Line Art ",
+      "hash": "UlI~S.Nx.8oz.TIpoJWVRkNHaJjYxukCV?s:",
       "premium": true
     },
+
     {
-      "category": "Sketches",
-      "label": "Line Art 1",
+      "label": "Sketch Portrait ",
+      "hash": "UON,rR00.S-p0fXT.8xuR+jFnhWB_N%2V@X8",
       "premium": true
     },
+
     {
-      "category": "Sketches",
-      "label": "Pencil",
+      "label": "Cute illustration ",
+      "hash": "ULMsid~oRhMw00NF?tOsXnjFRQM{%MofxDIo",
       "premium": true
     },
-    {
-      "category": "Sketches",
-      "label": "Pencil1",
+
+     {
+      "label": "Manga illustration",
+      "hash": "UEC$=oQ,0MWWA0Di-;W?JWI9^+%M~qs+4:D*",
       "premium": true
     },
-    {
-      "category": "Sketches",
-      "label": "Realistic",
+
+     {
+      "label": "3D Cartoon",
+      "hash": "UVKoAmS$BrkD4.f+%MV@R*WAr?kW?waeIUjF",
       "premium": true
-    }
+    },
+
+     {
+      "label": "3D illustration",
+      "hash": "URG@}W$MFME2D*M{x]NG~qWB%2xZE1Iox]of",
+      "premium": true
+    },
+
+     {
+      "label": "3D Render",
+      "hash": "U5Exw+0072Ey55^*4:t300~V0et-I[Ef^O4o",
+      "premium": true
+    },
+
+     {
+      "label": "Pencil Sketch",
+      "hash": "UEKSka0100~C9v={9tIp0y%1=|M{0ykCNb={",
+      "premium": true
+    },
+
+     {
+      "label": "Fantasy Photography",
+      "hash": "UZIEwu01x]jE~pIUWrjY%MobM{R+%hRPV@WX",
+      "premium": true
+    },
+
+     {
+      "label": "Pop Art",
+      "hash": "UGB3c_a09ZS$~WRPE1tROFNFRP-pT0RjRP%M",
+      "premium": true
+    },
+
+     {
+      "label": "Oil Painting",
+      "hash": "UCC~|:DP00?a00-:yCIV01kq?aM{_MIVMxt6",
+      "premium": true
+    },
+
+     {
+      "label": "3d Pop Art",
+      "hash": "U7B{cO0eTd~V00?Hw^xGW@$yxFNaMdnOn49a",
+      "premium": true
+    },
+
+     {
+      "label": "Pencil Sketch",
+      "hash": "URKdrQ?^*0WBpdsm%gRk?bMx#+WC.8kCofaK",
+      "premium": true
+    },
+
+     {
+      "label": "Watercolor illustration",
+      "hash": "UTJauo~UJ6W,kPM|-oX8yTIVW-xZb[R*IWxY",
+      "premium": true
+    },
+
+    {
+      "label": "Anime Portrait",
+      "hash": "UQLE4bxcW+WUD|RQozxs.kRkMzxuJORkI=WV",
+      "premium": true
+    },
+
+     {
+      "label": "Line Drawing",
+      "hash": "UQJtxT9GJV?aAJxu-;xu_N%M-;M{IqoKWCIU",
+      "premium": true
+    },
+
+     {
+      "label": "3d Digital Painting",
+      "hash": "UtJk.NocR~oz_4ofogfR%Nogn,V@x]WUWAof",
+      "premium": true
+    },
+
+    {
+      "label": "Cartoon illustration",
+      "hash": "U5G[+v0000~V004n4.=|00-=.AIV01_3~p01",
+      "premium": true
+    },
+
   ]
 }
