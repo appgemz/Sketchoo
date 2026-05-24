@@ -5,37 +5,43 @@
     {
       "label": "Digital illustration",
       "hash": "UKHyXAtP9rE000j?xct8_NWCVyn,RTtPMxRj",
-      "premium": true
+      "premium": true,
+      "prompt": "Transform the uploaded user photo into an elegant hand-drawn vintage storybook illustration in the exact style of the reference image. Preserve 100% of the original user identity, face structure, hairstyle, pose, clothing shape, composition, camera angle, facial expression, hand position, accessories, and background layout from the input image. Do NOT redesign the character or change the pose. Only convert the rendering style into a highly detailed ink-and-watercolor illustration with delicate line art, soft muted natural colors, fine crosshatching, textured paper feel, subtle watercolor shading, botanical aesthetic, detailed foliage, ornamental fabric patterns, graceful Asian-inspired storybook art style, calm cinematic atmosphere, refined outlines, elegant facial detailing, soft lighting, vintage fantasy illustration look, highly detailed nature background, premium illustrated novel artwork, ultra-clean composition, artistic and timeless aesthetic, high-resolution."
     },
     
     {
       "label": "Line Art",
       "hash": "UlI~S.Nx.8oz.TIpoJWVRkNHaJjYxukCV?s:",
-      "premium": true
+      "premium": true,
+      "prompt": "Transform the uploaded user photo into a clean ultra-detailed monochrome line art coloring-page illustration while preserving the EXACT facial features, hairstyle, body proportions, pose, clothing details, camera angle, composition, expression, and background layout of the original image. Convert everything into elegant thin black ink outlines with smooth hand-drawn contour lines, delicate cross-hatching, subtle sketch shading, and highly detailed flowing linework. Keep the character identity 100% accurate to the input image. Add minimal selective pastel accents only on small highlighted elements for visual focus. Style should look like premium modern Korean manga coloring-book art mixed with architectural pen sketch illustration, with clean white background, refined cloud line patterns, and detailed cityscape outlines. High detail, crisp edges, balanced composition, professional vector-like precision, printable coloring page aesthetic, ultra clean lines, no distortion, no extra objects, no anatomy changes, no pose changes, preserve original framing exactly."
     },
 
     {
       "label": "Sketch Portrait",
       "hash": "UON,rR00.S-p0fXT.8xuR+jFnhWB_N%2V@X8",
-      "premium": true
+      "premium": true,
+      "prompt": "Transform the uploaded user photo into a soft hand-drawn Korean sketch illustration while preserving the EXACT facial features, hairstyle, pose, clothing, expression, camera angle, and composition of the original image. Create clean black ink outlines with loose natural sketch strokes, pencil-style scribble shading, soft pastel coloring, and minimal watercolor texture. Keep the identity 100% accurate to the input photo. Use delicate facial linework, expressive eyes, smooth flowing hair strands, and light fashion-illustration detailing. Style should resemble elegant lifestyle sketch art mixed with modern Korean webtoon illustration, featuring subtle pink tones, soft neutral colors, airy white background, and refined minimalist aesthetics. Maintain original framing and proportions exactly, no anatomy changes, no pose changes, no extra objects, ultra clean line art, premium artistic portrait style, soft editorial illustration quality."
     },
 
     {
       "label": "Cute illustration",
       "hash": "ULMsid~oRhMw00NF?tOsXnjFRQM{%MofxDIo",
-      "premium": true
+      "premium": true,
+      "prompt": "Transform the uploaded portrait into a dreamy hand-drawn pastel storybook illustration with the exact same face, hairstyle, pose, expression, camera angle, body proportions, clothing structure, and composition as the original image. Preserve all identity details perfectly while converting only the visual style. Use soft watercolor + colored pencil textures, warm creamy lighting, delicate blush skin, glossy eyes, fluffy curly hair with soft highlights, cute whimsical butterflies around the hair and hands, cozy cottagecore atmosphere, floral background details, gentle sketch outlines, pastel color palette, charming anime-inspired children’s book aesthetic, highly detailed yet soft and clean, dreamy and magical mood, smooth painterly shading, elegant line art, adorable expression, cozy sunlight, premium illustration quality. Keep the original image framing and positioning unchanged — only stylize into this exact reference art style."
     },
 
      {
       "label": "Manga illustration",
       "hash": "UEC$=oQ,0MWWA0Di-;W?JWI9^+%M~qs+4:D*",
-      "premium": true
+      "premium": true,
+       "prompt": "Transform the uploaded image into a highly detailed black-and-white manga illustration while perfectly preserving the original person’s identity, facial features, hairstyle, pose, body proportions, clothing, camera angle, composition, background layout, and overall scene structure. Keep the exact same framing and positioning from the original image — only convert the visual style. Use authentic Japanese seinen manga aesthetics with clean ink line art, dramatic cross-hatching, screentone shading, detailed architectural perspective, cinematic lighting, realistic anatomy, expressive shadows, textured pen strokes, monochrome tones, subtle depth, and professional manga panel quality. Create a calm cinematic atmosphere with realistic urban detail and elegant composition. The final result should look like a premium hand-drawn manga page while remaining an accurate stylized replica of the original photo."
     },
 
      {
       "label": "3D Cartoon",
       "hash": "UVKoAmS$BrkD4.f+%MV@R*WAr?kW?waeIUjF",
-      "premium": true
+      "premium": true,
+       "prompt": "Transform the uploaded portrait into a premium stylized 3D collectible character while perfectly preserving the original person’s identity, facial features, hairstyle, pose, clothing, camera angle, composition, proportions, and expression. Keep the exact same framing and scene layout from the original image — only change the visual style. Use a cute cinematic 3D animation aesthetic with smooth sculpted facial features, soft skin shading, glossy expressive eyes, detailed hair strands, warm ambient lighting, subtle subsurface scattering, polished materials, cozy background depth, soft shadows, and high-end animated movie quality. Create a charming collectible-toy appearance inspired by modern Pixar/Disney-style 3D characters with realistic textures, clean rendering, warm pastel colors, and adorable emotional appeal. Maintain all original details accurately while converting the image into this exact stylized 3D art style."
     },
 
      {
