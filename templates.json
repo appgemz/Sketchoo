@@ -41,7 +41,8 @@
      {
       "label": "3D illustration",
       "hash": "URG@}W$MFME2D*M{x]NG~qWB%2xZE1Iox]of",
-      "premium": true
+      "premium": true,
+      "prompt": "Transform the uploaded user photo into a premium stylized 3D animated portrait in the exact visual style of the reference image. Preserve 100% of the original user identity, face structure, hairstyle, pose, camera angle, facial expression, eye direction, body proportions, clothing shape, composition, framing, and lighting direction from the input image. Do NOT change the person’s appearance or pose. Only convert the visual rendering style into a soft cinematic stylized 3D character art style with smooth skin shading, large expressive eyes, subtle blush, clean glossy hair strands, soft global illumination, warm ambient lighting, realistic depth, polished Disney/Pixar-inspired aesthetics, ultra-clean render quality, soft background blur, detailed facial features, natural skin tones, high contrast, vibrant yet realistic colors, premium animated movie character look, highly detailed, sharp focus, professional lighting, modern stylized realism, 4K render."
     },
 
      {
