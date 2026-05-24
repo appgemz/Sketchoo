@@ -96,25 +96,29 @@
      {
       "label": "Pencil Sketch",
       "hash": "URKdrQ?^*0WBpdsm%gRk?bMx#+WC.8kCofaK",
-      "premium": true
+      "premium": true,
+       "prompt": "Transform the uploaded portrait into a refined hand-drawn graphite pencil sketch while perfectly preserving the original person’s identity, facial features, hairstyle, pose, body proportions, clothing, expression, camera angle, composition, and background structure. Keep the exact same framing and positioning from the original image — only convert the visual style. Use realistic graphite shading, delicate pencil strokes, soft cross-hatching, fine line detailing, subtle tonal gradients, clean sketch textures, natural facial realism, detailed hair strands, smooth skin shading, soft paper grain, elegant monochrome aesthetics, minimal background detailing, and handcrafted artistic precision. Create a highly detailed realistic pencil portrait with balanced shading, fine contours, soft depth, and timeless artistic elegance. The final result should look like a professionally hand-drawn graphite artwork while remaining an accurate stylized replica of the original photo."
     },
 
      {
       "label": "Watercolor illustration",
       "hash": "UTJauo~UJ6W,kPM|-oX8yTIVW-xZb[R*IWxY",
-      "premium": true
+      "premium": true,
+       "prompt": "Transform the uploaded portrait into a delicate watercolor storybook illustration while perfectly preserving the original person’s identity, facial features, hairstyle, pose, body proportions, clothing, expression, camera angle, composition, and background structure. Keep the exact same framing and positioning from the original image — only convert the visual style. Use soft watercolor textures, gentle hand-painted brushwork, subtle ink detailing, muted earthy pastel tones, dreamy natural lighting, soft blush skin, flowing silky hair, delicate botanical elements, warm summer atmosphere, elegant feminine aesthetics, textured paper grain, subtle shading, romantic countryside charm, and refined painterly detailing. Create a highly detailed whimsical portrait with soft color blending, graceful composition, calm emotional warmth, and timeless storybook beauty. The final result should look like a professionally hand-painted watercolor artwork while remaining an accurate stylized replica of the original photo."
     },
 
     {
       "label": "Anime Portrait",
       "hash": "UQLE4bxcW+WUD|RQozxs.kRkMzxuJORkI=WV",
-      "premium": true
+      "premium": true,
+      "prompt": "Transform the uploaded portrait into a soft semi-realistic anime illustration while perfectly preserving the original person’s identity, facial features, hairstyle, pose, body proportions, clothing, expression, camera angle, composition, and background structure. Keep the exact same framing and positioning from the original image — only convert the visual style. Use clean anime line art, smooth soft shading, warm natural lighting, large expressive eyes, delicate facial detailing, silky hair rendering, soft blush skin, cozy countryside aesthetics, pastel earthy tones, gentle bokeh background, elegant simplicity, polished digital painting textures, subtle depth, calm romantic atmosphere, and refined character illustration detailing. Create a highly detailed modern anime portrait with soft color harmony, dreamy outdoor mood, charming femininity, and polished semi-realistic rendering. The final result should look like a professionally illustrated anime artwork while remaining an accurate stylized replica of the original photo."
     },
 
      {
       "label": "Line Drawing",
       "hash": "UQJtxT9GJV?aAJxu-;xu_N%M-;M{IqoKWCIU",
-      "premium": true
+      "premium": true,
+       "prompt": "Transform the uploaded portrait into a minimalist hand-drawn line-art illustration while perfectly preserving the original person’s identity, facial features, hairstyle, pose, body proportions, expression, camera angle, composition, and background structure. Keep the exact same framing and positioning from the original image — only convert the visual style. Use clean pencil contour lines, minimal facial detailing, soft sketch imperfections, simple monochrome aesthetics, delicate hand-drawn strokes, sparse shading, subtle paper texture, expressive outlines, lightweight linework, minimalist portrait composition, and elegant unfinished sketch aesthetics. Create a highly detailed minimal contour drawing with soft organic lines, natural proportions, and artistic simplicity. The final result should look like a professionally hand-sketched minimalist portrait while remaining an accurate stylized replica of the original photo."
     },
 
      {
