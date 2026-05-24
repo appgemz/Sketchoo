@@ -124,18 +124,21 @@
      {
       "label": "3d Digital Painting",
       "hash": "UtJk.NocR~oz_4ofogfR%Nogn,V@x]WUWAof",
-      "premium": true
+      "premium": true,
+       "prompt": "Transform the uploaded portrait into a whimsical stylized 3D storybook illustration while perfectly preserving the original person’s identity, facial features, hairstyle, pose, body proportions, clothing, expression, camera angle, composition, and background structure. Keep the exact same framing and positioning from the original image — only convert the visual style. Use soft stylized 3D rendering, smooth cinematic shading, cozy countryside aesthetics, dreamy golden-hour lighting, rounded facial features, soft blush skin, polished character design, vibrant natural scenery, painterly clouds, subtle depth of field, warm color harmony, charming storybook atmosphere, detailed fabric textures, cute semi-realistic proportions, and high-quality animated film aesthetics. Create a highly detailed cinematic portrait with soft environmental lighting, whimsical outdoor mood, and polished stylized rendering. The final result should look like a professionally crafted animated storybook/3D character artwork while remaining an accurate stylized replica of the original photo."
     },
 
     {
       "label": "Cartoon illustration",
       "hash": "U5G[+v0000~V004n4.=|00-=.AIV01_3~p01",
-      "premium": true
+      "premium": true,
+      "prompt": "Transform the uploaded portrait into a cute whimsical doodle-style illustration while perfectly preserving the original person’s identity, facial features, hairstyle, pose, body proportions, clothing, expression, camera angle, composition, and background structure. Keep the exact same framing and positioning from the original image — only convert the visual style. Use soft pastel colors, playful hand-drawn line art, cozy cartoon aesthetics, doodle-style background elements, sketchy pencil textures, cute expressive simplification, minimal soft shading, whimsical city vibes, cheerful lifestyle mood, colorful fashion details, adorable illustrated characters, light crayon-like textures, clean outlines, and charming scrapbook aesthetics. Create a highly detailed modern doodle portrait with soft color harmony, playful composition, cozy urban energy, and cute illustrated storytelling. The final result should look like a professionally hand-drawn pastel doodle/cartoon artwork while remaining an accurate stylized replica of the original photo."
     },
      {
       "label": "K Sketch",
       "hash": "UEKSka0100~C9v={9tIp0y%1=|M{0ykCNb={",
-      "premium": true
+      "premium": true,
+       "prompt": "Transform the uploaded portrait into a cinematic photorealistic artwork featuring the person holding or displaying their own hand-drawn sketch portrait while perfectly preserving the original person’s identity, facial features, hairstyle, pose, body proportions, clothing, expression, camera angle, composition, and background structure. Keep the exact same framing and positioning from the original image — only convert the visual style. Use ultra-realistic portrait rendering, professional studio photography aesthetics, soft cinematic lighting, realistic skin texture, sharp facial detailing, natural eye reflections, subtle depth of field, elegant fashion portrait mood, and a highly detailed monochrome pencil sketch embedded naturally within the scene. The sketch artwork should accurately resemble the same person with refined graphite linework, realistic shading, and hand-drawn artistic texture. Create a highly detailed editorial-style portrait with premium realism, artistic contrast between photo and sketch, and polished cinematic depth. The final result should look like a professionally photographed fine-art portrait while remaining an accurate stylized replica of the original photo."
     }
 
   ]
