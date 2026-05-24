@@ -54,37 +54,43 @@
      {
       "label": "3D Render",
       "hash": "U5Exw+0072Ey55^*4:t300~V0et-I[Ef^O4o",
-      "premium": true
+      "premium": true,
+       "prompt": "Transform the uploaded portrait into a soft cinematic stylized 3D cartoon character while perfectly preserving the original person’s identity, facial features, hairstyle, pose, body proportions, clothing, expression, camera angle, composition, and scene layout. Keep the exact same framing and positioning from the original image — only change the art style. Use a premium modern 3D animated aesthetic with smooth skin shading, large expressive eyes, soft blush tones, silky detailed hair, subtle realistic textures, warm ambient lighting, clean rendering, gentle shadows, pastel color harmony, and polished Disney/Pixar-inspired character design. Create a cute, elegant, emotionally warm appearance with high-quality cinematic depth and a cozy lifestyle atmosphere. The final image should look like a professionally rendered stylized 3D animation while remaining an accurate artistic replica of the original photo."
     },
 
      {
       "label": "Colored Pencil",
       "hash": "UCH.1w%fKZW,9=sqM}n,4URi^,R%_NM{RiWB",
-      "premium": true
+      "premium": true,
+       "prompt": "Transform the uploaded portrait into a delicate hand-drawn colored pencil anime illustration while perfectly preserving the original person’s identity, facial features, hairstyle, pose, body proportions, clothing, expression, camera angle, composition, and background structure. Keep the exact same framing and positioning from the original image — only convert the visual style. Use soft colored pencil textures, gentle sketch shading, fine line art, pastel tones, subtle paper grain, realistic anime facial detailing, soft blush skin, silky hair highlights, dreamy spring atmosphere, floral scenery, elegant lighting, and cozy romantic aesthetics. Create a highly detailed Japanese shoujo-style illustration with natural colors, soft depth, and a calm emotional mood. The final result should look like a professionally hand-drawn colored pencil anime artwork while remaining an accurate stylized replica of the original photo."
     },
 
      {
       "label": "Fantasy Photography",
       "hash": "UZIEwu01x]jE~pIUWrjY%MobM{R+%hRPV@WX",
-      "premium": true
+      "premium": true,
+       "prompt" "Transform the uploaded portrait into an elegant cinematic fantasy artwork while perfectly preserving the original person’s identity, facial features, hairstyle, pose, body proportions, clothing, expression, camera angle, composition, and background structure. Keep the exact same framing and positioning from the original image — only convert the visual style. Use soft golden-hour lighting, dreamy ethereal atmosphere, delicate luxury fashion aesthetics, glowing skin, silky hair highlights, refined pastel color grading, subtle ocean reflections, ornate elegant detailing, cinematic depth of field, soft volumetric lighting, romantic mood, realistic fantasy styling, premium editorial beauty, and ultra-detailed photorealistic rendering. Create a highly detailed luxury fantasy portrait with soft warm tones, elegant lighting, and a calm cinematic feeling. The final result should look like a professionally crafted ethereal fantasy artwork while remaining an accurate stylized replica of the original photo."
     },
 
      {
       "label": "Pop Art",
       "hash": "UGB3c_a09ZS$~WRPE1tROFNFRP-pT0RjRP%M",
-      "premium": true
+      "premium": true,
+       "prompt": "Transform the uploaded portrait into a vibrant psychedelic street-art illustration while perfectly preserving the original person’s identity, facial features, hairstyle, pose, body proportions, clothing, expression, camera angle, composition, and background structure. Keep the exact same framing and positioning from the original image — only convert the visual style. Use explosive neon colors, psychedelic graffiti aesthetics, detailed paint splatter textures, bold comic-style outlines, vibrant spray-paint effects, rainbow gradients, urban mural energy, surreal visual patterns, colorful skin detailing, glowing highlights, expressive street-art composition, pop-art influence, high contrast, layered ink textures, playful chaotic elements, and ultra-detailed artistic rendering. Create a highly detailed modern psychedelic graffiti artwork with vivid saturation, bold shapes, dynamic lighting, and rebellious urban energy. The final result should look like a professionally painted neon street-art mural while remaining an accurate stylized replica of the original photo."
     },
 
      {
       "label": "Oil Painting",
       "hash": "UCC~|:DP00?a00-:yCIV01kq?aM{_MIVMxt6",
-      "premium": true
+      "premium": true,
+       "prompt": "Transform the uploaded portrait into an expressive cinematic oil painting while perfectly preserving the original person’s identity, facial features, hairstyle, pose, body proportions, clothing, expression, camera angle, composition, and background structure. Keep the exact same framing and positioning from the original image — only convert the visual style. Use rich oil brush textures, visible painterly strokes, soft blended edges, dramatic cinematic lighting, moody urban atmosphere, warm and cool tonal contrast, realistic skin rendering, textured fabric details, subtle depth, soft bokeh lights, emotional realism, classic fine-art aesthetics, dark ambient mood, and handcrafted painterly detailing. Create a highly detailed contemporary oil portrait with layered paint textures, expressive brushwork, cinematic shadows, and an elegant emotional tone. The final result should look like a professionally hand-painted oil artwork while remaining an accurate stylized replica of the original photo."
     },
 
      {
       "label": "3d Pop Art",
       "hash": "U7B{cO0eTd~V00?Hw^xGW@$yxFNaMdnOn49a",
-      "premium": true
+      "premium": true,
+       "prompt": "Transform the uploaded portrait into a clean retro comic-style illustration while perfectly preserving the original person’s identity, facial features, hairstyle, pose, body proportions, clothing, expression, camera angle, composition, and background structure. Keep the exact same framing and positioning from the original image — only convert the visual style. Use bold black outlines, smooth cel shading, vintage comic aesthetics, halftone dot textures, flat pastel color palette, clean vector-style line art, soft warm lighting, expressive facial simplification, subtle pop-art influence, crisp shapes, minimal shadows, playful cozy atmosphere, stylized indoor scenery, and polished cartoon detailing. Create a highly detailed modern comic portrait with smooth coloring, clean contours, retro illustration charm, and a friendly lifestyle mood. The final result should look like a professionally illustrated pop-art/comic artwork while remaining an accurate stylized replica of the original photo."
     },
 
      {
