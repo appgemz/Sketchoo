@@ -3,12 +3,20 @@
   "images": [
 
   {
+    "category": "Fantacy",
+    "total": 26
+  },
+  {
     "category": "Animals",
     "total": 35
   },
   {
     "category": "Anatomy",
-    "total": 13
+    "total": 23
+  },
+  {
+    "category": "Study",
+    "total": 19
   },
   {
     "category": "Nature",
@@ -23,6 +31,10 @@
     "total": 13
   },
   {
+    "category": "Objects",
+    "total": 31
+  },
+  {
     "category": "Vehicle",
     "total": 29
   },
@@ -30,7 +42,7 @@
     "category": "For Kids",
     "total": 32
   },
-  
+
   {
     "category": "Festival",
     "total": 31
@@ -39,12 +51,19 @@
     "category": "Architecture",
     "total": 21
   },  
-
   {
     "category": "People",
     "total": 22
-  },  
-{
+  },
+  {
+    "category": "Sport",
+    "total": 19
+  },
+  {
+    "category": "Luxury",
+    "total": 21
+  },
+  {
     "category": "Mandala",
     "total": 10
   }
